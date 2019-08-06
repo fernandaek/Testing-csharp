@@ -6,7 +6,8 @@ namespace Projeto_GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("I'm just playing arround with Git Bash!"); //New commit
+
             Console.ReadLine();
 
         }
